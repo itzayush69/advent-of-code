@@ -15,11 +15,10 @@ Each day's solution is contained within its own directory, named `day_xx`, where
 - `input.txt`: The input data for the puzzle.
 
 ## Solutions
-
 | Day | Puzzle | Solution |
 | --- | ------ | -------- |
-| 01   | [Day 1](https://adventofcode.com/2024/day/1) | [Python](day_01/part_1/solution.py) / [JavaScript](day_01/part_1/solution.js) |
-| ... | ...    | ...      |
+| 01  | [Day 1](https://adventofcode.com/2024/day/1) | [Python](day_01/part_1/solution.py) / [JavaScript](day_01/part_1/solution.js) |
+| 02  | [Day 2](https://adventofcode.com/2024/day/2) | [Python](day_02/part_1/solution.py) / [JavaScript](day_02/part_1/solution.js) |
 
 ## How to Run
 
