@@ -15,11 +15,13 @@ Each day's solution is contained within its own directory, named `day_xx`, where
 - `input.txt`: The input data for the puzzle.
 
 ## Solutions
+## Solutions
 | Day | Puzzle | Part 1 Solution | Part 2 Solution |
 | --- | ------ | ---------------- | ---------------- |
 | 1  | [Day 1](https://adventofcode.com/2024/day/1) | [Python](day_01/part_1/solution.py) / [JavaScript](day_01/part_1/solution.js) | [Python](day_01/part_2/solution.py) / [JavaScript](day_01/part_2/solution.js) |
 | 2  | [Day 2](https://adventofcode.com/2024/day/2) | [Python](day_02/part_1/solution.py) / [JavaScript](day_02/part_1/solution.js) | [Python](day_02/part_2/solution.py) / [JavaScript](day_02/part_2/solution.js) |
 | 3  | [Day 3](https://adventofcode.com/2024/day/3) | [Python](day_03/part_1/solution.py) / [JavaScript](day_03/part_1/solution.js) | [Python](day_03/part_2/solution.py) / [JavaScript](day_03/part_2/solution.js) |
+| 4  | [Day 4](https://adventofcode.com/2024/day/4) | [Python](day_04/part_1/solution.py) / [JavaScript](day_04/part_1/solution.js) | [Python](day_04/part_2/solution.py) / [JavaScript](day_04/part_2/solution.js) |
 ## How to Run
 
 To run the solutions, navigate to the respective day's part directory and execute the solution file. For example:
